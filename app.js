@@ -1,6 +1,5 @@
 
 const express = require('express');
-const { serialize } = require('node:v8');
 const app = express();
 const PORT = 3000;
 
